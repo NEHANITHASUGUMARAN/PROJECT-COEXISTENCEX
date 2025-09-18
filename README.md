@@ -75,8 +75,8 @@ Awarded for developing an end-to-end web solution to manage and mitigate humanâ€
 
 ðŸ“¸ Demo Screenshots (Optional)
 
-(Add screenshots of your web platform, dashboard, Google Maps tracking, etc.)
-<img width="396" height="396" alt="image" src="https://github.com/user-attachments/assets/20368056-535e-4968-b0d5-6a3461117216" />
+screenshots of SOS ALERT
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/20368056-535e-4968-b0d5-6a3461117216" />
 
 
 
