@@ -1,7 +1,7 @@
 # PROJECT-COEXISTENCEX
 🌿 Developed an end-to-end website addressing human–animal conflict, winning 1st place at the National Forest Hackathon 2025. Features include real-time incident reporting, dashboards for forest officers, AI-based conflict prediction, and community awareness tools for safe coexistence.
 
-🐘 Elephant Tracking and Alerting System
+🐘 Elephant Tracking and Alerting Systems
 📌 Overview
 
 The Elephant Tracking and Alerting System is an AI-powered wildlife monitoring solution developed to reduce human–elephant conflicts. It integrates GPS tracking, geofencing, real-time alerts, AI-based audio detection, and camera vision into a unified web platform.
